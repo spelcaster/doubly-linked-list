@@ -1,2 +1,2 @@
-gcc main.c -o hugo
+gcc *.c -o hugo
 

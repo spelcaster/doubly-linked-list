@@ -18,5 +18,3 @@ void *pop_front(list_t *);
 void *pop_back(list_t *);
 list_t *init();
 void destroy(list_t *);
-
-#include "doubly-linked-list.c"

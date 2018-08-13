@@ -1,3 +1,5 @@
+#include "doubly-linked-list.h"
+
 int32_t push_back(list_t *list, void *data)
 {
     if (0 == list) {
